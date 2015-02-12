@@ -440,7 +440,7 @@ bool addrToHash160(
         #endif
 
         #if defined(GABENCOIN)
-            data[0] = 48;
+            data[0] = 16;
         #endif
 
         #if defined(BITCOIN)
