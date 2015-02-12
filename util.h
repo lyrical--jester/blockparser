@@ -344,7 +344,7 @@
         #endif
 
         #if defined(GABENCOIN)
-            uint8_t type = 48
+            uint8_t type = 16
         #endif
 
         #if defined(BITCOIN)
