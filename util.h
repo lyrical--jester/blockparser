@@ -343,7 +343,7 @@
             uint8_t type = 48 + 28
         #endif
 
-        #if defined(LITECOIN)
+        #if defined(GABENCOIN)
             uint8_t type = 48
         #endif
 
