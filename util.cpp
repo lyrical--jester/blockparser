@@ -439,7 +439,7 @@ bool addrToHash160(
             data[0] = 48 + 28;
         #endif
 
-        #if defined(LITECOIN)
+        #if defined(GABENCOIN)
             data[0] = 48;
         #endif
 
@@ -781,9 +781,9 @@ const char *getInterestingAddr() {
 
         "1dice8EMZmqKvrGE4Qc9bUFf9PX3xaYDp"
 
-    #elif defined(LITECOIN)
+    #elif defined(GABENCOIN)
 
-        "LKvTVnkK2rAkJXfgPdkaDRgvEGvazxWS9o"
+        "7TZth9fTDLkpi8Zb2VD7YwWmv9zYPShTVJ"
 
     #elif defined(DARKCOIN)
 
